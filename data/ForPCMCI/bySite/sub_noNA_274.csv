@@ -1,0 +1,2 @@
+"siteID","year","month","site","lat","lon","type","source","NEE_qc","GPP","NEE","RECO","Air_temperature","Soil_temperature","VPD","SWC","Precipation","SOC_0","SOC_10","SOC_30","LAI","BS","PV","NPV","CI"
+274,2013,3,"CA-TPD",42.6353,-80.5577,"DBF","FLUXNET",0.355511,11.466838,10.391138,21.494315,0.435,0.087,2.06,18.527,0.897,30,25,5,0.4,21.604359,18.529207,58.416286,0.8202501
